@@ -17,10 +17,10 @@
     "Pronouns": ["She", "Her"],
     "Current Work": "Resident Advisor",
     "Languages Spoken": {
-      "Spanish": "🇪🇸",
-      "English": "🇬🇧",
-      "Italian": "un po' d'italiano 🇮🇹",
-      "German": "ein bisschen Deutsch 🇩🇪"
+      "Spanish": "Native 🇪🇸",
+      "English": "Full Professional Proficiency 🇬🇧",
+      "Italian": "Un po' d'italiano 🇮🇹",
+      "German": "Ein bisschen Deutsch 🇩🇪"
     },
     "Currently Learning": ["C#", "ASP.NET", "GraphQL", "ElasticSearch"],
     "Looking to Learn": ["AI Development", "TDD Development", "Prompt Engineering"],
