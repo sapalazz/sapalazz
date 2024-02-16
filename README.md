@@ -5,9 +5,11 @@
     <div style="flex: 1;">
         <h1>Hi there, I'm sapalazz! 👋</h1>
         <h2><b>About Me</b></h2>
-        <p style="font-size: 16px;">I'm a Jr Web Developer from Madrid, Spain.</p>
+        <p style="font-size: 20px;"><strong>Jr Web Developer</strong> from Madrid, Spain 🇪🇸 </p>
     </div>
 </div>
+
+---
 
 ### What I'm Up To
 
@@ -18,6 +20,8 @@
 - 🤔 I've JS, TS and React expertise.
 - 💬 Let's chat about anything programming or music related.
 - 📫 How to reach me: [Email](mailto:spalazzo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sapalazz/)
-- ⚡ Fun fact: I love dogs, motorbikes and Berserk!
+- ⚡ Fun fact: I love dogs, motorbikes, and Berserk!
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapalazz&show_icons=true&theme=radical)
