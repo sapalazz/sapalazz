@@ -11,16 +11,30 @@
 
 ---
 
-### What I'm Up To
+```
+{
+  "What I'm Up To": {
+    "Pronouns": ["She", "Her"],
+    "Current Work": "Resident Advisor",
+    "Languages Spoken": {
+      "Spanish": "🇪🇸",
+      "English": "🇬🇧",
+      "Italian": "un po' d'italiano 🇮🇹",
+      "German": "ein bisschen Deutsch 🇩🇪"
+    },
+    "Currently Learning": ["C#", "ASP.NET", "GraphQL", "ElasticSearch"],
+    "Looking to Learn": ["AI Development", "TDD Development", "Prompt Engineering"],
+    "Expertise": ["JavaScript", "TypeScript", "React", "NodeJS", "MySQL"],
+    "Interests": ["Programming", "Music", "Cinema", "Travel"],
+    "Contact": {
+      "Email": "spalazzo@gmail.com",
+      "LinkedIn": "https://www.linkedin.com/in/sapalazz/"
+    },
+    "Fun Fact": "I love dogs, motorbikes, and Berserk!"
+  }
+}
 
-- 😄 Pronouns: "She" / "Her"
-- 🔭 I'm working at Resident Advisor. 
-- 🌱 I’m currently learning C#, ASP.NET, GraphQL & ElasticSearch.
-- 👯 I'm looking to learn AI development.
-- 🤔 I've JS, TS and React expertise.
-- 💬 Let's chat about anything programming or music related.
-- 📫 How to reach me: [Email](mailto:spalazzo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sapalazz/)
-- ⚡ Fun fact: I love dogs, motorbikes, and Berserk!
+```
 
 ---
 
