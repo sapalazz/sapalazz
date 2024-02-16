@@ -7,6 +7,7 @@
         <h2><b>About Me</b></h2>
         <p style="font-size: 20px;"><strong>Jr Web Developer</strong> from Madrid, Spain 🇪🇸 </p>
     </div>
+                <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=sapalazz%27s+Tech+Stack&lineCount=2&theme=hacker&line1=React%2CReact%2C3a5895%3BTypescript%2CTypeScript%2C4364a9%3BJavascript%2CJavaScript%2Cf0ec47%3BGraphQL%2CGraphQL%2Cb347be%3B&line2=PostgreSQL%2CPostgreSQL%2C2255d2%3BNode.js%2CNode.js%2C15a84a%3BGit%2CGit%2C9e4e2c%3BASP.NET%2CASP.NET%2C0d1c9e%3B" alt="sapalazz's Tech Stack" />
 </div>
 
 ---
@@ -39,3 +40,4 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapalazz&show_icons=true&theme=radical)
+
