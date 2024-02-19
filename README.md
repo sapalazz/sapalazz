@@ -28,10 +28,10 @@
     "Expertise": ["JavaScript", "TypeScript", "React", "NodeJS", "MySQL"],
     "Interests": ["Programming", "Music", "Cinema", "Travel"],
     "Contact": {
-      "Email": "spalazzo@gmail.com",
+      "Email": "spalazzo9@gmail.com",
       "LinkedIn": "https://www.linkedin.com/in/sapalazz/"
     },
-    "Fun Fact": "I love dogs, motorbikes, and Berserk!"
+    "Fun Fact": "I love dogs, motorbikes, prog rock and Berserk!"
   }
 }
 
