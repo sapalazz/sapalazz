@@ -14,12 +14,13 @@
 
 ```
 {
-  "What I'm Up To": {
+  "Get to know me": {
     "Pronouns": ["She", "Her"],
-    "Current Work": "Resident Advisor",
+    "Personality": ["HSP", "INFJ", "I got amazing powers of observation"],
+    "Current position": "Web Developer @ Resident Advisor",
     "Languages Spoken": {
       "Spanish": "Native 🇪🇸",
-      "English": "Full Professional Proficiency 🇬🇧",
+      "English": "Full professional proficiency 🇬🇧",
       "Italian": "Un po' d'italiano 🇮🇹",
       "German": "Ein bisschen Deutsch 🇩🇪"
     },
@@ -27,6 +28,7 @@
     "Looking to Learn": ["AI Development", "TDD Development", "Prompt Engineering"],
     "Expertise": ["JavaScript", "TypeScript", "React", "NodeJS", "MySQL"],
     "Interests": ["Programming", "Music", "Cinema", "Travel", "Sci-fi"],
+    "Favourite bands": ["Depeche Mode", "Muse", "Porcupine Tree", "Periphery", "Parcels"],
     "Contact": {
       "Email": "spalazzo9@gmail.com",
       "LinkedIn": "https://www.linkedin.com/in/sapalazz/"
