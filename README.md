@@ -26,12 +26,12 @@
     "Currently Learning": ["C#", "ASP.NET", "GraphQL", "ElasticSearch"],
     "Looking to Learn": ["AI Development", "TDD Development", "Prompt Engineering"],
     "Expertise": ["JavaScript", "TypeScript", "React", "NodeJS", "MySQL"],
-    "Interests": ["Programming", "Music", "Cinema", "Travel"],
+    "Interests": ["Programming", "Music", "Cinema", "Travel", "Sci-fi"],
     "Contact": {
       "Email": "spalazzo9@gmail.com",
       "LinkedIn": "https://www.linkedin.com/in/sapalazz/"
     },
-    "Fun Fact": "I love dogs, motorbikes, prog rock and Berserk!"
+    "Fun Fact": "I love dogs, motorbikes, prog rock, house music, Berserk and Dune!"
   }
 }
 
