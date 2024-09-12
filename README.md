@@ -1,45 +1,30 @@
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <img src="https://github.com/sapalazz/sapalazz/assets/71673769/e210507b-c19f-4c17-96fa-9c5fcd34fe2c" alt="Profile Image" width="300" height="300">
-    </div>
-    <div style="flex: 1;">
-        <h1>Hi there, I'm sapalazz! 👋</h1>
-        <h2><b>About Me</b></h2>
-        <p style="font-size: 20px;"><strong>Junior Web Developer</strong> from Madrid, Spain 🇪🇸 </p>
-    </div>
-                <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=sapalazz%27s+Tech+Stack&lineCount=2&theme=hacker&line1=React%2CReact%2C3a5895%3BTypescript%2CTypeScript%2C4364a9%3BJavascript%2CJavaScript%2Cf0ec47%3BGraphQL%2CGraphQL%2Cb347be%3B&line2=PostgreSQL%2CPostgreSQL%2C2255d2%3BNode.js%2CNode.js%2C15a84a%3BGit%2CGit%2C9e4e2c%3BASP.NET%2CASP.NET%2C0d1c9e%3B" alt="sapalazz's Tech Stack" />
-</div>
+<h1 align="center">Hi 👋, I'm Sara Palazzo</h1>
+<h3 align="center">A web developer from Madrid, Spain</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapalazz&label=Profile%20views&color=0e75b6&style=flat" alt="sapalazz" /> </p>
 
-```
-{
-  "Get to know me": {
-    "Pronouns": ["She", "Her"],
-    "Personality": ["HSP", "INFJ", "I got amazing powers of observation"],
-    "Current position": "Junior Web Developer @ Resident Advisor",
-    "Languages Spoken": {
-      "Spanish": "Native 🇪🇸",
-      "English": "Full professional proficiency 🇬🇧",
-      "Italian": "Un po' d'italiano 🇮🇹",
-      "German": "Ein bisschen Deutsch 🇩🇪"
-    },
-    "Currently Learning": ["C#", "ASP.NET", "GraphQL", "ElasticSearch"],
-    "Looking to Learn": ["AI Development", "TDD Development", "Prompt Engineering"],
-    "Expertise": ["JavaScript", "TypeScript", "React", "NodeJS", "MySQL"],
-    "Interests": ["Programming", "Music", "Cinema", "Travel", "Sci-fi"],
-    "Favourite bands": ["Depeche Mode", "Muse", "Porcupine Tree", "Periphery", "Parcels"],
-    "Contact": {
-      "Email": "spalazzo9@gmail.com",
-      "LinkedIn": "https://www.linkedin.com/in/sapalazz/"
-    },
-    "Fun Fact": "I love dogs, motorbikes, prog rock, house music, Berserk and Dune!"
-  }
-}
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapalazz" alt="sapalazz" /></a> </p>
 
-```
+- 🔭 I’m currently working at [Resident Advisor](https://ra.co)
 
----
+- 🌱 I’m currently learning **C#, ASP.NET Core, GraphQL**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapalazz&show_icons=true&theme=radical)
+- 👨‍💻 All of my projects are available at [https://github.com/sapalazz](https://github.com/sapalazz)
 
+- 💬 Ask me about **React, JavaScript, TypeScript, MySQL**
+
+- 📫 How to reach me **spalazzo9@gmail.com**
+
+- 📄 Know about my experiences [https://www.sarapalazzo.es/](https://www.sarapalazzo.es/)
+
+- ⚡ Fun fact **I am a beach person**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sarapalazzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarapalazzo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapalazz&" alt="sapalazz" /></p>
