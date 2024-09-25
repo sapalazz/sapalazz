@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Palazzo</h1>
-<h3 align="center">A web developer from Madrid, Spain</h3>
+<h3 align="center">A junior web developer from Madrid, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapalazz&label=Profile%20views&color=0e75b6&style=flat" alt="sapalazz" /> </p>
 
