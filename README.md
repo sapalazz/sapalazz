@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Resident Advisor](https://ra.co)
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, GraphQL**
+- 🌱 I’m currently learning **C#, ASP.NET Core, GraphQL & Solidity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sapalazz](https://github.com/sapalazz)
 
