@@ -7,17 +7,21 @@
 
 - 🔭 I’m currently working at [Resident Advisor](https://ra.co)
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, GraphQL & Solidity**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sapalazz](https://github.com/sapalazz)
+- 🌱 I’m currently learning **C# & ASP.NET Core**
 
 - 💬 Ask me about **React, JavaScript, TypeScript, MySQL**
 
+- 👨‍💻 All my projects are available at [https://github.com/sapalazz](https://github.com/sapalazz)
+
+- 🎵 If you like prog rock, you can read my past live reviews at [Defector Music](https://defectormusic.wordpress.com)
+
+- 🍿 Follow me on [Letterboxd](https://letterboxd.com/sapalazz)
+
+- 🎚️ Check [my favourite mixes in 2025](https://soundcloud.com/sapalazz/sets/my-fav-mixes-in-2025) on SoundCloud
+
 - 📫 How to reach me **spalazzo9@gmail.com**
 
-- 📄 Know about my experiences [https://www.sarapalazzo.es/](https://www.sarapalazzo.es/)
-
-- ⚡ Fun fact **I am a beach person**
+- 📄 Check my website [https://www.sarapalazzo.es/](https://www.sarapalazzo.es/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
