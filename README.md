@@ -17,6 +17,8 @@
 
 - 🍿 Follow me on [Letterboxd](https://letterboxd.com/sapalazz)
 
+- 🎷 Check out my scrobbles on [Last.fm](https://www.last.fm/user/sdefector) 
+
 - 🎚️ Check [my favourite mixes in 2025](https://soundcloud.com/sapalazz/sets/my-fav-mixes-in-2025) on SoundCloud
 
 - 📫 How to reach me **spalazzo9@gmail.com**
