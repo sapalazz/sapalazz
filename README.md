@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sara Palazzo Fernández</h1>
-<h3 align="center">A junior web developer from Madrid, Spain</h3>
+<h3 align="center">A web developer from Madrid, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapalazz&label=Profile%20views&color=0e75b6&style=flat" alt="sapalazz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapalazz" alt="sapalazz" /></a> </p>
 
-- 🔭 I’m currently working at [Resident Advisor](https://ra.co)
+- 🔭 I’ve been working at [Resident Advisor](https://ra.co) for +2 years
 
 - 🌱 I’m currently learning **C# & ASP.NET Core**
 
