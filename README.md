@@ -7,7 +7,7 @@
 
 - 🔭 I’ve been working at [Resident Advisor](https://ra.co) for +2 years
 
-- 🌱 I’m currently learning **C# & ASP.NET Core**
+- 🌱 I’m currently learning **NestJS and Prisma**
 
 - 💬 Ask me about **React, JavaScript, TypeScript, MySQL**
 
@@ -19,11 +19,9 @@
 
 - 🎷 Check out my scrobbles on [Last.fm](https://www.last.fm/user/sdefector) 
 
-- 🎚️ Check [my favourite mixes in 2025](https://soundcloud.com/sapalazz/sets/my-fav-mixes-in-2025) on SoundCloud
+- 🎚️ Check [my favourite mixes in 2026]([https://soundcloud.com/sapalazz/sets/my-fav-mixes-in-2025](https://soundcloud.com/sapalazz/sets/my-fav-mixes-in-2026)) on SoundCloud
 
 - 📫 How to reach me **spalazzo9@gmail.com**
-
-- 📄 Check my website [https://www.sarapalazzo.es/](https://www.sarapalazzo.es/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
