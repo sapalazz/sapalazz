@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapalazz" alt="sapalazz" /></a> </p>
 
-- 🔭 I’ve been working at [Resident Advisor](https://ra.co) for +2 years
+- 🔭 I’ve been working at [Resident Advisor](https://ra.co) for +3 years
 
 - 🌱 I’m currently learning **NestJS and Prisma**
 
